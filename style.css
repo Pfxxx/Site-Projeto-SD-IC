@@ -197,8 +197,13 @@ section.sobre .txt-sobre h2 {
 
 .txt-sobre h2 {
     font-size: 45px;
-    line-height: 40px;
-    margin-bottom: 25px;    
+    line-height: 40px;   
+}
+.txt-sobre p {
+    margin-bottom: 50px;   
+}
+.txt-sobre li {
+    margin-bottom: 50px;   
 }
 .txt-sobre h2 span{
     color: #199214;

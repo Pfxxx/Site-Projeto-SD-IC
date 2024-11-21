@@ -194,13 +194,17 @@ section.sobre .flex{
 section.sobre .txt-sobre h2 {
     text-align: left !important;
 }
+section.sobre .txt-sobre li {
+    margin-left: 45px;
+}
 
 .txt-sobre h2 {
     font-size: 45px;
     line-height: 40px;   
+    margin-bottom: 20px;
 }
 .txt-sobre p {
-    margin-bottom: 50px;   
+    margin-bottom: 30px;   
 }
 .txt-sobre li {
     margin-bottom: 50px;   
